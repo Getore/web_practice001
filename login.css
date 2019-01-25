@@ -1,0 +1,100 @@
+body{
+    position: relative;
+}
+.a {
+    height: 17px;
+    font-size: 13px;
+    color: #b51014;
+    text-decoration: none;  // 去掉下划线
+}
+.a-two {
+    margin-left: 25px;
+    height: 17px;
+    font-size: 13px;
+    color: #b51014;
+    text-decoration: none;  // 去掉下划线
+}
+.center{
+    /*position: center;*/
+    /*align:center;*/
+    /*text-align: center;*/
+}
+.form{
+    width: 520px;
+    height: 542px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.image{
+    position: absolute;
+    border: none;
+    height: 43px;
+    width: 100px;
+}
+.title{
+    font-size: 23px;
+    color: #C54447;
+}
+.title-two{
+    color: #666666;
+    font-size: 13px;
+    margin-top: 30px
+}
+.inner-div{
+    font-size: 15px;
+    width: 900px;
+    height: 40px;
+    text-align: left;
+    margin-top: 44px;
+}
+.div-last{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.identifying-input{
+    width: 285px;
+    height: 43px;
+    padding:0 5px;
+    border-bottom: 1px solid #eaeaea;
+    border-right: 1px solid #eaeaea;
+    border-top: 2px solid #eaeaea;
+    border-left: 2px solid #eaeaea;
+    margin: 0 5px;
+}
+.inner-input{
+    width: 398px;
+    height: 43px;
+    padding:0 5px;
+    border-bottom: 1px solid #eaeaea;
+    border-right: 1px solid #eaeaea;
+    border-top: 2px solid #eaeaea;
+    border-left: 2px solid #eaeaea;
+    margin: 0 5px;
+}
+.label{
+    width: 100px;
+    height: 40px;
+    float: left;
+    color: #666666;
+    text-align: right;
+    font-size: 16px;
+    line-height: 40px;
+}
+.identifying-button{
+    width: 89px;
+    height: 44px;
+    background-color: #F9F9F9;
+    border: 2px solid #eaeaea;
+}
+.registry-button{
+    width: 142px;
+    height: 37px;
+    background-color: #b51014;
+    color: white;
+    border: #b51014;
+}
+.span-color666{
+    color: #666666;
+}
